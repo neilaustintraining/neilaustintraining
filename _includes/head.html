@@ -9,10 +9,9 @@
   
   <!-- Title, description, author -->
   {%- capture _page_title -%}
-    {%- if page.title -%}{{- page.title | append: ' | ' -}}{%- endif -%}
+    {%- if page.title -%}{{- "No BS Fit Pro" | append: ' | ' -}}{%- endif -%}
     {{- site.title | default: "No BS Fit Pro" -}}
-    {%- if site.subtitle -%}{{- site.subtitle | prepend: ' - ' -}}{%- endif -%}
-    {{- site.subtitle | default: "Cut Through The BS" -}}
+    {%- if site.subtitle -%}{{- "Cut Through The BS" | prepend: ' - ' -}}{%- endif -%}
   {%- endcapture -%}
   {%- assign _page_title = _page_title | escape -%}
   {%- assign _page_description = page.description | default: site.description | default: _page_title | escape -%}
