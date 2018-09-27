@@ -1,5 +1,5 @@
 ---
-title:      The Biggest Problem That No One Is Talking About In The Fitness Industry
+title: The Biggest Problem In The Fitness Industry
 author: No BS Fit Pro
 icon: fa-lightbulb
 icon-style: regular
