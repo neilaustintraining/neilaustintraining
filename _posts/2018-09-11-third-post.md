@@ -5,4 +5,4 @@ layout: post
 icon: fa-lightbulb
 icon-style: regular
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wem0eeZ2gwY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/wem0eeZ2gwY" frameborder="0" allowfullscreen></iframe></div>
