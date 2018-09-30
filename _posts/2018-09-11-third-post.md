@@ -1,5 +1,5 @@
 ---
-title: You're Wrong About Why You're Not Seeing Results
+title: You're Wrong About Why You're Not Getting Results
 author: No BS Fit Pro
 layout: post
 icon: fa-lightbulb
