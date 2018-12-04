@@ -1,5 +1,5 @@
 ---
-title: No BS Fit Pro Videocast Episode Eleven
+title: No BS Fit Pro Videocast Episode Twelve
 author: No BS Fit Pro
 icon: fa-lightbulb
 icon-style: regular
